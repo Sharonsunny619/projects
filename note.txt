@@ -1,0 +1,43 @@
+1)WEBSITES
+
+* fontawesome
+* colorpicker
+* google fonts
+
+2)to move div
+
+* float - left,right
+* inspect and tools
+* margin left top bottom right  (moves entire div )(moves in available space)
+
+* position property
+1. static- child div stays inside parent div,will not move.
+2. relative- child div stays within parent div but can move inside parent.
+3. absolute- child div can move freely outside and inside parent div.
+4. fixed- box remains fixed even if background is scrolled.
+5. sticky- fixed for some point then moves freely.
+
+
+3)to move contents in div
+
+*  padding left right top bottom  (moves content within div)(adds more space)
+* top left right bottom (to  move div within div)
+* justify-content (space-between,space-evenly ...)
+
+4)to create gallery
+
+* margin (left,right...)
+* float (left right...)
+* position (static,absolute)
+* display (flex)
+
+5) box-shadow (to give shadows to boxes)
+6) span (to give 2 color of 2 words )
+7) hover (to change bgcolor of button and text inside it when cursor is moved on button) (button:hover{ color: ;, background-color: ; } in css)
+8) backdrop-filter: blur(5px); invert(80%) sepia(90%) - to blur background image
+
+Bootstrap
+
+
+9) copy paste <link> from site
+

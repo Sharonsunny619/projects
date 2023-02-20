@@ -1,0 +1,23 @@
+
+
+body{
+    background-image: url("./images/download\ \(2\).jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: 10px 5px 5px red;
+}
+p{
+    color: black;
+}
+button{
+    border-radius: 50px;
+    height: 50px;
+    width: 70px;
+    background-color: aliceblue;
+    color: aquamarine;
+    opacity: 0.5;
+}
+button:hover{
+    background-color: blue;
+    color: blueviolet;
+}
